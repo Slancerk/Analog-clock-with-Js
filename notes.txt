@@ -1,0 +1,9 @@
+ First of all lets say all the hands are pointing to '12' 
+
+Formula:
+ 
+For hour hand, (30h + m/2)
+
+For min hand , (6m degree)
+
+For sec hand, (6s degree)
