@@ -5,14 +5,12 @@ Credits: Thanks to Code with Harry bhaiya, Learning a lot with you...
 
 ## Contributing
 Here is my first project,
-
-That I am contributing .....This is basically for learning purpose..
+.....This is basically for learning purpose..
 
 ## 🚀 About Me
 Hey up! I am souvik, this is my very first project with `HTML`,`CSS` and `Javascript`.
 
 I am very happy to say that , I was literally nothing just 1-2 months back but now as I am taking more and more knowledge, I can say that I am on the way to a Full stack developer..
-
 Thanks to those youtubers who made it possible...
 
 
